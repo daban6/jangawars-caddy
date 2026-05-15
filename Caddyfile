@@ -1,3 +1,7 @@
+{
+    auto_https disable_redirects
+}
+
 map.jangawars.club {
     reverse_proxy 163.5.76.162:7887
 }
